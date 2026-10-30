@@ -1,0 +1,90 @@
+[
+  {
+    "file": "photos/bingfan-avatar.jpg",
+    "person": "FAN / 陈炳帆 (NouerA)",
+    "source_page": "https://nouera-official.jp/news/2/",
+    "image_url": "https://d1rjcmiyngzjnh.cloudfront.net/prod/public/fcopen/contents/information/1625/5497af39fefb7d1239ccd4836acf6e42.jpg",
+    "identity_evidence": "NouerA Japan official member PROFILE: image immediately precedes FAN(ファン).",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "downloaded_at": "2026-10-30",
+    "verification": "Decoded and visually inspected using view_image; JPEG signature and dimensions checked with file.",
+    "use_in_bingfan_story": false,
+    "note": "Superseded: user requests daily-life photos instead of official profile/studio photography."
+  },
+  {
+    "file": "photos/bingfan-portrait.jpg",
+    "person": "FAN / 陈炳帆 (NouerA)",
+    "source_page": "https://www.sss-official.com/nouera",
+    "image_url": "https://static.wixstatic.com/media/a63472_870bfa49210347269f2e1e26e5703150~mv2.jpg",
+    "identity_evidence": "SSS / Chromosome official NouerA artist page: named 01_FAN.jpg beside heading FAN 陈炳帆.",
+    "dimensions": [
+      3038,
+      4142
+    ],
+    "downloaded_at": "2026-10-30",
+    "verification": "Decoded and visually inspected using view_image; JPEG signature and dimensions checked with file.",
+    "use_in_bingfan_story": false,
+    "note": "Superseded: user requests daily-life photos instead of official profile/studio photography."
+  },
+  {
+    "file": "photos/bingfan-casual.jpg",
+    "person": "FAN / 陈炳帆 (NouerA)",
+    "source_page": "https://nouera-official.com/story/feed/6acb516831a5693cf6ccdeea",
+    "image_url": "https://image.static.bstage.in/cdn-cgi/image/metadata=none/nouera/2ab65c84-2882-4707-be03-5b345eb7d5df/40e7855f-a072-4f10-b759-9740fd192d55/ori.jpeg",
+    "identity_evidence": "Official b.stage post 今天的我～ / 오늘의 나~; author nickname 누에라_판, type STAR; published 2026-10-11; first post image.",
+    "dimensions": [
+      2316,
+      3088
+    ],
+    "downloaded_at": "2026-10-30",
+    "verification": "Decoded and visually inspected using view_image; JPEG signature and dimensions checked with file."
+  },
+  {
+    "file": "photos/bingfan-selfie.jpg",
+    "person": "FAN / 陈炳帆 (NouerA)",
+    "source_page": "https://nouera-official.com/story/feed/6acb516831a5693cf6ccdeea",
+    "image_url": "https://image.static.bstage.in/cdn-cgi/image/metadata=none/nouera/75795a36-f40a-4f63-a0f5-4a914db70ccb/dd578780-2740-44b7-8e1d-c25a9b9e81a8/ori.jpeg",
+    "identity_evidence": "Official b.stage post 今天的我～ / 오늘의 나~; author nickname 누에라_판, type STAR; published 2026-10-11; second post image.",
+    "dimensions": [
+      2316,
+      3088
+    ],
+    "downloaded_at": "2026-10-30",
+    "verification": "Decoded and visually inspected using view_image; JPEG signature and dimensions checked with file."
+  },
+  {
+    "file": "photos/bingfan-daily-1.jpg",
+    "person": "FAN / 陈炳帆 (NouerA)",
+    "source_page": "https://nouera-official.com/story/feed/6a3a2ef89b4aee6aef302b9f",
+    "image_url": "https://image.static.bstage.in/cdn-cgi/image/metadata=none/nouera/5f9af239-920c-45eb-bfd4-89466fa76929/f55e2367-d6b5-47dc-ac0e-99a52290bdbb/ori.jpeg",
+    "identity_evidence": "Official b.stage public personal post; author 누에라_판, type STAR",
+    "post_title": "안녕👋\n你好👋",
+    "published_at": "2026-06-23T07:00:09.159Z",
+    "dimensions": [
+      2316,
+      3088
+    ],
+    "downloaded_at": "2026-10-30",
+    "verification": "JPEG decoded and visually inspected using view_image. Casual personal selfie, no studio background or promotional overlay.",
+    "use_in_bingfan_story": true
+  },
+  {
+    "file": "photos/bingfan-daily-2.jpg",
+    "person": "FAN / 陈炳帆 (NouerA)",
+    "source_page": "https://nouera-official.com/story/feed/6a2cc64c086ffd07ad38728f",
+    "image_url": "https://image.static.bstage.in/cdn-cgi/image/metadata=none/nouera/dbb88f59-5ce5-41ce-bfaf-688e532bd702/3652923f-f710-4249-a538-81e51fb83e93/ori.jpeg",
+    "identity_evidence": "Official b.stage public personal post; author 누에라_판, type STAR",
+    "post_title": "⚫️🖤",
+    "published_at": "2026-06-13T02:54:04.482Z",
+    "dimensions": [
+      2316,
+      3088
+    ],
+    "downloaded_at": "2026-10-30",
+    "verification": "JPEG decoded and visually inspected using view_image. Casual personal selfie, no studio background or promotional overlay.",
+    "use_in_bingfan_story": true
+  }
+]
